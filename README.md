@@ -5,7 +5,7 @@ Passionate about uncovering insights from data to drive smarter decisions. Skill
 
 📫 **Contact Me:**  
 ✉️ Email: vishwagangaraddi@gmail.com  
-🔗 LinkedIn: linkedin.com/in/vishwagangaraddi
+🔗 LinkedIn: [linkedin.com/in/vishwagangaraddi](https://www.linkedin.com/in/vishwagangaraddi/)
 
 <!---
 vishwagangaraddi/vishwagangaraddi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
